@@ -16,66 +16,67 @@ In this course, we have taken a unique approach by making it super-friendly and 
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+
 This course doesn't assume any knowledge of Python or Python programming experience. This course is for anyone who wants to get started with Programming in Python.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Minimum Hardware Requirements
+This course has the following requirements:<br/>
+<b>
+Minimum Hardware Requirements</b><br>
 For successful completion of this course, students will require the computer systems with at least the following:
-
+<ul><li>
 
 OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
-
+</li><li>
 
 
 Processor: Intel Core i5 or equivalent
 
-
+</li><li>
 
 Memory: 8 GB RAM
 
-
+</li><li>
 
 Storage: 35 GB available space
+</li></ul>
 
 
 
-
-Recommended Hardware Requirements
+<b>Recommended Hardware Requirements</b><br>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-
+<ul><li>
 
 OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit
 
-
+</li><li>
 
 Processor: Intel Core i7 or equivalent
 
 
-
+</li><li>
 Memory: 8 GB RAM
 
-
+</li><li>
 
 Storage: 35 GB available space
+</li></ul>
 
-
-Software Requirements
-
+<b>Software Requirements</b>
+<ul><li>
 OS: Windows 7 or Windows 10
 
-
+</li><li>
 
 Browser: Google Chrome, Latest Version
 
-
+</li><li>
 
 Code Editor: Atom IDE, Latest Version
-
+</li><li>
 
 
 Others: Python3 installed using the Anaconda package or equivalent, Tensorflow r1.4 
-
+</li></ul>
 
 
 ## Related Products
